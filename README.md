@@ -18,4 +18,4 @@ The goal of this project was to design a mechanical setup for the manual adjustm
 ## Project Files
 You can [view/download the full project report and technical drawings](https://github.com/Shrey9378/Adjustable-Manipulator-Design/blob/main/Micromechanical%20Manipulator%20Report.pdf).
 
-You can also [download the Autodesk Inventor assembly file](https://github.com/Shrey9378/Adjustable-Manipulator-Design/tree/main/assembly_files) to view the full 3D model.
+(You can also [download the Autodesk Inventor assembly file](assembly_files/Assembly4.iam) to view the full 3D model.) to view the full 3D model.
