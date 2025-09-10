@@ -14,3 +14,6 @@ The goal of this project was to design a mechanical setup for the manual adjustm
 - Material selection for each component.  
 - Technical drawings of all components and assemblies (compiled as a PDF).  
 - A written project report.  
+
+## Project PDF
+You can [view/download the full project report and technical drawings](docs/project_report.pdf).
